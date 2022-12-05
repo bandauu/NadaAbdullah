@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bandauu
 - 👀 I’m interested in programing & AI & horses (not related but i love them so much)
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ..,
 - 📫 How to reach me : @nadaprog on twitter
 
 <!---
