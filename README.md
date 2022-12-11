@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandauu
-- 👀 I’m interested in programing & AI & horses (not related but i love them so much)
+- 👀 I’m interested in programing & AI 
 - 🌱 I’m currently learning web development
 - 📫 How to reach me : @nadaprog on twitter
 
