@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bandauu
+- 👋 Hi, I’m @NadaAbdullah
 - 👀 I’m interested in programing & AI 
 - 🌱 I’m currently learning web development
 - 📫 How to reach me : @nadaprog on twitter
